@@ -1,0 +1,8 @@
+streamlit==1.39.0
+requests
+pandas
+geopy
+streamlit-folium
+folium
+pgeocode
+matplotlib
